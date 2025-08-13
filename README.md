@@ -1,4 +1,4 @@
-# MottuAPI - Gestão de Motos em Pátios
+# MotoFacilAPI - Gestão de Motos em Pátios
 
 Este projeto foi desenvolvido como parte do **Challenge 2025 - 1º Semestre** da FIAP, em parceria com a empresa 🛵 **Mottu**.
 
